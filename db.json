@@ -1,1 +1,1 @@
-{"test": {"coordonnees": [{"lat": 1, "long": 2}, {"lat": 1, "long": 2}, {"lat": 1, "long": 2}, {"lat": 1, "long": 2}], "sol": {"limon": 2, "argile": 1, "type": "argile", "sable": 3}, "plante": {"type": "tomate"}, "capteur": {"cap1": {"lat": "1", "nom": "cap1", "uid": "123456", "long": "2"}, "cap2": {"lat": "1", "nom": "cap2", "uid": "123456", "long": "2"}}}}
+{"test": {"resultat":"irriguer votre parcelle"}}
